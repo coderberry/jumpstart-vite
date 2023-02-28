@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://vite-ruby.netlify.app/">
-    <img src="https://raw.githubusercontent.com/ElMassimo/vite_ruby/main/logo.svg" width="200px"/>
+    <img src="https://raw.githubusercontent.com/coderberry/vite_ruby/main/logo.svg" width="200px"/>
   </a>
 
   <br>
@@ -10,7 +10,7 @@
   <a href="https://vite-ruby.netlify.app/">Vite</a>
 
   <p align="center">
-    <a href="https://github.com/ElMassimo/vite_ruby/blob/master/LICENSE.txt">
+    <a href="https://github.com/coderberry/vite_ruby/blob/main/LICENSE.txt">
       <img alt="License" src="https://img.shields.io/badge/license-MIT-428F7E.svg"/>
     </a>
   </p>
@@ -18,14 +18,14 @@
 
 [jumpstart]: https://github.com/excid3/jumpstart
 [pro]: https://jumpstartrails.com
-[vite_rails]: https://github.com/ElMassimo/vite_rails/tree/main/vite_rails
+[vite_rails]: https://github.com/coderberry/vite_rails/tree/main/vite_rails
 [esbuild]: https://github.com/evanw/esbuild
 [significantly faster]: https://github.com/evanw/esbuild#why
 [no bundling]: https://vitejs.dev/guide/why.html#the-problems
 [bundling]: https://vitejs.dev/guide/why.html#why-bundle-for-production
-[JS From Routes]: https://github.com/ElMassimo/js_from_routes
-[vite-plugin-stimulus-hmr]: https://github.com/ElMassimo/vite-plugin-stimulus-hmr
-[vite-plugin-full-reload]: https://github.com/ElMassimo/vite-plugin-full-reload
+[JS From Routes]: https://github.com/coderberry/js_from_routes
+[vite-plugin-stimulus-hmr]: https://github.com/coderberry/vite-plugin-stimulus-hmr
+[vite-plugin-full-reload]: https://github.com/coderberry/vite-plugin-full-reload
 
 This repo is a fork of the [__Jumpstart Rails__][jumpstart] template, which is
 like Laravel Spark, for Rails.
@@ -54,12 +54,12 @@ Changes to Stimulus controllers don't require a full page refresh.
   <img width="836" alt="Screen Shot 2021-02-15 at 13 27 22" src="https://user-images.githubusercontent.com/1158253/107971695-8e1ae380-6f91-11eb-9ef7-9fed47d4d3be.png">
 </a>
 
-This feature is powered by <kbd>[vite-plugin-stimulus-hmr](https://github.com/ElMassimo/vite-plugin-stimulus-hmr)</kbd>.
+This feature is powered by <kbd>[vite-plugin-stimulus-hmr](https://github.com/coderberry/vite-plugin-stimulus-hmr)</kbd>.
 
 ## Installation 💿
 
 ```bash
-rails new myapp -d postgresql -m https://raw.githubusercontent.com/ElMassimo/jumpstart-vite/master/template.rb
+rails new myapp -d postgresql -m https://raw.githubusercontent.com/coderberry/jumpstart-vite/main/template.rb
 ```
 
 For the rest of the instructions, head to [Jumpstart Rails][jumpstart].
